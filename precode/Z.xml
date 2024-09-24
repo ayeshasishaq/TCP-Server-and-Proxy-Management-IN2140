@@ -1,0 +1,34 @@
+<record>
+  <source="B" />
+  <dest="Z" />
+  <courses>
+    <course="IN1000" />
+    <course="IN1020" />
+    <course="IN1140" />
+    <course="IN1150" />
+  </courses>
+</record>
+
+<record>
+  <source="B" />
+  <dest="Z" />
+  <id="1657" />
+  <group="3992" />
+  <semester="9" />
+  <courses>
+    <course="IN1080" />
+    <course="IN1140" />
+    <course="IN1150" />
+    <course="IN1900" />
+    <course="IN1910" />
+  </courses>
+</record>
+
+<record>
+  <source="B" />
+  <dest="Z" />
+  <id="4387" />
+  <group="7972" />
+  <grade="PhD" />
+</record>
+
